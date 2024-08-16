@@ -1,16 +1,19 @@
 # nstarter-entity
 
+> [!IMPORTANT]  
+> 本项目已被合并至 https://github.com/jiandaoyun/nstarter
+
 <!-- TOC -->
 
-- [安装](#安装)
-- [使用方式](#使用方式)
-    - [实体结构定义](#实体结构定义)
-    - [实体对象实例化](#实体对象实例化)
-    - [生成 JSON Schema](#生成-json-schema)
-    - [工程启动资源加载](#工程启动资源加载)
-    - [实体对象扩展](#实体对象扩展)
-- [API 说明](#api-说明)
-- [限制场景](#限制场景)
+- [安装](#%E5%AE%89%E8%A3%85)
+- [使用方式](#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F)
+    - [实体结构定义](#%E5%AE%9E%E4%BD%93%E7%BB%93%E6%9E%84%E5%AE%9A%E4%B9%89)
+    - [实体对象实例化](#%E5%AE%9E%E4%BD%93%E5%AF%B9%E8%B1%A1%E5%AE%9E%E4%BE%8B%E5%8C%96)
+    - [生成 JSON Schema](#%E7%94%9F%E6%88%90-json-schema)
+    - [工程启动资源加载](#%E5%B7%A5%E7%A8%8B%E5%90%AF%E5%8A%A8%E8%B5%84%E6%BA%90%E5%8A%A0%E8%BD%BD)
+    - [实体对象扩展](#%E5%AE%9E%E4%BD%93%E5%AF%B9%E8%B1%A1%E6%89%A9%E5%B1%95)
+- [API 说明](#api-%E8%AF%B4%E6%98%8E)
+- [限制场景](#%E9%99%90%E5%88%B6%E5%9C%BA%E6%99%AF)
 - [License](#license)
 
 <!-- /TOC -->
